@@ -9,3 +9,15 @@ $cmb = new Combinations;
 $cmb->setChars(['a', 'b']);
 echo implode("<br>\n", $cmb->getCombinations(3));
 ```
+
+Result:
+```
+aaa
+aab
+aba
+abb
+baa
+bab
+bba
+bbb
+```
