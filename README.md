@@ -1,6 +1,6 @@
 Combinations
 ============
-My very old class for generating simple combinations of characters.
+My very old class for generating combinations of characters.
 
 
 Usage:
